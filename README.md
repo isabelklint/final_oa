@@ -1,2 +1,2 @@
 # final_oa
-final project notebook for open avenues micro-internship
+Final project notebook for Open Avenues Career Pathways micro-internship
